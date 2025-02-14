@@ -1,7 +1,7 @@
 # Group-One-Simplex-Program
 
-**Name**: Tasiu Alhassan </br>
-**Matric no.**: U23CS1060 </br>
+**Name**: Abubakar Abdulkadir Hassan </br>
+**Matric no.**: U22CS1060 </br>
 
 # C++ Simplex Algorithm for Linear Programming
 
