@@ -13,6 +13,7 @@
  * U22CS1031	Ayegh Anadoo Jessica
  * 
  * Title: C++ Implementation of the Simplex Algorithm for solving LPPs
+ *
  * Brief Description: 
  * This program implements the Simplex algorithm to solve Linear Programming Problems (LPPs)
  * that feature only ‘less than or equal to’ constraints with nonnegative right-hand sides.
