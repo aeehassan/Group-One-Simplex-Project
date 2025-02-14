@@ -88,7 +88,6 @@ This program **solves linear optimization problems** by:
 
 ```
 	./simplex
-
 ```
 
 4. **Input Your Linear Programming Problem (LPP)**
